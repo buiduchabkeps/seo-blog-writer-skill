@@ -1,0 +1,4 @@
+interface:
+  display_name: "SEO Blog Writer"
+  short_description: "Viết blog SEO tiếng Việt và tạo bộ ảnh bằng ChatGPT"
+  default_prompt: "Dùng $seo-blog-writer viết bài SEO tiếng Việt từ từ khóa của tôi, duyệt tiêu đề và dàn ý, rồi tạo bộ ảnh minh họa bằng ChatGPT."
