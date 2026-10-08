@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#153b32"/><stop offset="1" stop-color="#285d44"/></linearGradient>
+    <linearGradient id="pic" x2="1" y2="1"><stop stop-color="#e2efb5"/><stop offset="1" stop-color="#f4b27e"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#09291d" flood-opacity=".28"/></filter>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1010" cy="30" r="370" fill="none" stroke="#ffffff" stroke-opacity=".09" stroke-width="70"/>
+  <circle cx="1040" cy="15" r="210" fill="none" stroke="#ffffff" stroke-opacity=".12" stroke-width="2"/>
+  <rect x="64" y="52" width="63" height="63" rx="17" fill="#d9ed9b"/>
+  <path d="M108 68 82 94l-3 12 12-3 26-26-9-9Z" fill="#173e36"/><path d="m104 72 9 9" stroke="#f5ad75" stroke-width="5"/>
+  <text x="146" y="96" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700" fill="#fff">SEO Blog Writer</text>
+  <text x="65" y="225" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="700" fill="#ffffff">Từ một từ khóa</text>
+  <text x="65" y="305" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="700" fill="#d9ed9b">đến bài blog SEO</text>
+  <text x="65" y="385" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="700" fill="#ffffff">hoàn chỉnh.</text>
+  <text x="67" y="449" font-family="Arial,Helvetica,sans-serif" font-size="25" fill="#c6d9cb">Nội dung tiếng Việt · Ảnh minh họa · Bản nháp WordPress</text>
+  <rect x="65" y="516" width="232" height="53" rx="26" fill="#d9ed9b"/>
+  <text x="92" y="550" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="700" fill="#173e36">Cùng ChatGPT  ↗</text>
+  <g transform="translate(793 100) rotate(-7 155 210)" filter="url(#shadow)">
+    <rect width="320" height="425" rx="24" fill="#fffef8"/>
+    <circle cx="29" cy="29" r="5" fill="#c9d6c8"/><circle cx="47" cy="29" r="5" fill="#c9d6c8"/><circle cx="65" cy="29" r="5" fill="#c9d6c8"/>
+    <text x="30" y="92" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" fill="#689779">BẢN THẢO BLOG</text>
+    <rect x="30" y="118" width="248" height="20" rx="5" fill="#173e36"/><rect x="30" y="150" width="190" height="20" rx="5" fill="#173e36"/>
+    <rect x="30" y="200" width="255" height="9" rx="4" fill="#dfe6dc"/><rect x="30" y="222" width="225" height="9" rx="4" fill="#dfe6dc"/><rect x="30" y="244" width="160" height="9" rx="4" fill="#dfe6dc"/>
+    <rect x="30" y="283" width="260" height="104" rx="12" fill="url(#pic)"/>
+  </g>
+</svg>

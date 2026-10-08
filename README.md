@@ -147,6 +147,10 @@ Việc cài skill cung cấp quy trình hướng dẫn; khả năng thực thi p
 | [assets/icon.svg](assets/icon.svg) | Tài nguyên biểu tượng |
 | [README.md](README.md) | Giới thiệu, sơ đồ quy trình và ví dụ sử dụng |
 
+## Trang giới thiệu trên GitHub Pages
+
+Thư mục [`docs/`](docs/) chứa trang giới thiệu tĩnh. Trang không cần máy chủ, cơ sở dữ liệu hoặc API key. Để xuất bản, vào **Settings → Pages → Build and deployment**, chọn **Deploy from a branch**, nhánh **main**, thư mục **/docs**, rồi **Save**. Địa chỉ trang là `https://buiduchabkeps.github.io/seo-blog-writer-skill/`. GitHub Pages có thể cần vài phút để cập nhật sau mỗi lần thay đổi.
+
 ## Nguyên tắc chất lượng
 
 - Nguồn và thông tin có thể kiểm chứng; không sao chép bài đối thủ hoặc bịa số liệu.
